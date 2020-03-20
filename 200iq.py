@@ -22,12 +22,3 @@ class Game:
 		#assign equal number cards to players randomly
 
 
-
-
-class Player(self):
-	cards = []
-	team = []
-
-
-	def declare(self):
-		#
